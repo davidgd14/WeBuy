@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #e1e8f4;
+}
+
+div{
+	color: #5dcac2;
+}
+
+
+div{
+	margin-left: 200px;
+	
+}
+/*div {
+	border-bottom: 0.4px solid #000 ;
+	border-bottom-color: #5dcac2;
+	text-align: center;
+	width: 50%;
+}
+
+div > h1{
+	display: inline-block;
+
+}
+
+div span{
+	
+	margin-left: 200px;
+}
+
+div > h3{
+	display: inline-block;
+}*/
+nav{
+	display: inline-block;
+	margin-left: 450px;
+}
+
+#buttonEffect1{
+    width: 240px;
+    height: 50px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    display: 25px 25px;
+    /*display: block;*/
+    background-color: #5dcac2;
+    border: 1px solid;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#buttonEffect1{
+    background-color: #FFFFFF;
+    color: #5dcac2;
+    border-color: #5dcac2;
+
+}
+
+
+#buttonEffect2{
+    width: 240px;
+    height: 50px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    display: 25px 25px;
+    /*display: block;*/
+    background-color: #5dcac2;
+    border: 1px solid;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#buttonEffect2{
+    background-color: #FFFFFF;
+    color: #5dcac2;
+    border-color: #5dcac2;
+
+}
