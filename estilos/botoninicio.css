@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #e1e8f4;
+}
+
+.robot{
+    margin-left: 100px;
+}
+
+
+p{
+    text-align: center;
+}
+
+.caja{
+
+    margin-top: 50px;
+    color: #5dcac2;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#buttonEffect{
+    width: 240px;
+    height: 80px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    display: 25px 25px;
+    display: block;
+    background-color: #5dcac2;
+    border: 1px solid;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#buttonEffect{
+    background-color: #FFFFFF;
+    color: #5dcac2;
+    border-color: #5dcac2;
+
+}
+
